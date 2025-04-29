@@ -1,5 +1,5 @@
 import tkinterdnd2 as tkdnd
-from UI import PDFMergerApp
+from interface.UI import PDFMergerApp
 
 if __name__ == "__main__":
     root = tkdnd.Tk()
